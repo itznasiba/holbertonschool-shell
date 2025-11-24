@@ -1,0 +1,19 @@
+total 60
+-rw-r--r--. 1 root root   12 Nov 24 18:56 *\'"Best School"'\*$?\*\*\*\*\*:)
+-rw-r--r--. 1 root root   12 Nov 24 18:56 *\'Best School'\*$?****:)
+drwxr-xr-x. 2 root root 4096 Nov 24 19:02 .
+drwxr-xr-x. 5 root root 4096 Nov 24 18:56 ..
+-rwxr-xr-x. 1 root root   32 Nov 24 18:56 0-hello_world
+-rwxr-xr-x. 1 root root   27 Nov 24 18:56 1-confused_smiley
+-rwxr-xr-x. 1 root root   28 Nov 24 18:56 2-hellofile
+-rwxr-xr-x. 1 root root   39 Nov 24 18:56 3-twofiles
+-rwxr-xr-x. 1 root root   35 Nov 24 18:56 4-lastlines
+-rwxr-xr-x. 1 root root   35 Nov 24 18:56 5-firstlines
+-rwxr-xr-x. 1 root root   38 Nov 24 18:56 6-third_line
+-rwxr-xr-x. 1 root root   69 Nov 24 18:56 7-file
+-rwxr-xr-x. 1 root root   36 Nov 24 19:01 8-cwd_state
+-rwxr-xr-x. 1 root root   37 Nov 24 18:56 9-duplicate_last_line
+-rw-r--r--. 1 root root   19 Nov 24 18:56 README.md
+-rw-r--r--. 1 root root    0 Nov 24 18:56 iacta
+-rw-r--r--. 1 root root    0 Nov 24 19:02 ls_cwd_content
+-rw-r--r--. 1 root root    0 Nov 24 18:56 o_redirections_and_filters
